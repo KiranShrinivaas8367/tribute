@@ -1,0 +1,39 @@
+body {
+  font-family: times-new roman;
+  background: #;
+  color: #00000;
+  text-align: center;
+}
+
+#main{
+  display: absolute;
+  margin: auto, auto;
+  background-color: white;
+}
+
+h2{
+  font-family:sans-serif;
+  }
+
+#img-div {
+   text-align: center;
+   display: block;
+   filter: grayscale(100%);
+   width: 100%;
+}
+
+#image {
+  padding-top: 10px;
+  height: auto;
+  max-width: 330px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
